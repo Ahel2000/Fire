@@ -1,7 +1,7 @@
 # MARAUDERS
-The app is currently under development. This is being built by me in collaboration with @anisde85 and @m-sounak.
+This is a simple social media app is currently under development. This is being built by me in collaboration with @anisde85 and @m-sounak.
 
-This Project is lecenced under MIT Licence and terms are as follows:
+This Project is licenced under MIT Licence and terms are as follows:
 ```
 MIT License
 
