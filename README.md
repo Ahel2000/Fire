@@ -1,5 +1,5 @@
-# SocialApp
-This is a social media app that we aim to build for connecting students of IIEST Shibpur with one another. The app is currently under development. This is being built by me in collaboration with @anisde85 and @m-sounak.
+# MARAUDERS
+The app is currently under development. This is being built by me in collaboration with @anisde85 and @m-sounak.
 
 This Project is lecenced under MIT Licence and terms are as follows:
 ```
