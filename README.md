@@ -1,5 +1,5 @@
 # MARAUDERS
-This is a simple social media app and is currently under development. This is being built by me in collaboration with @anisde85 and @m-sounak.
+This is a chatting application where one can interact within a single group. 
 
 This Project is licenced under MIT Licence and terms are as follows:
 ```
