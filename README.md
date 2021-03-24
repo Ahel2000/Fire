@@ -1,5 +1,5 @@
-# MARAUDERS
-This is a chatting application where one can interact within a single group(i.e every person who has registered with the app will be able to see what others post). This is currently under development and features like creating private groups, forwarding messages, etc will be added in due time.
+# FIRE
+This is a chatting application where one can interact within a single group(i.e every person who has registered with the app will be able to see what others post).
 
 This Project is licenced under MIT Licence and terms are as follows:
 ```
